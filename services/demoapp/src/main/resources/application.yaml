@@ -1,0 +1,7 @@
+app:
+  name: MyDemoApp
+  description: Demo Application
+
+server:
+  port: 8080
+
